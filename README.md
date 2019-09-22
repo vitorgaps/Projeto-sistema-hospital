@@ -1,5 +1,5 @@
 # Projeto de um sistema simplificado de um hospital
-Desenvolvido na disciplina de Algoritmos e Estruturas de Dados I
+Desenvolvido na disciplina de Programação de Computadores II
 
 # Funcionalidades:
 - Cadastro 
