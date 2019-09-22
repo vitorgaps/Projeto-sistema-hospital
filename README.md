@@ -1,5 +1,6 @@
 # Projeto de um sistema simplificado de um hospital
-Desenvolvido na disciplina de Programação de Computadores II. OI
+Desenvolvido na disciplina de Programação de Computadores II.
+
 
 # Funcionalidades:
 - Cadastro 
